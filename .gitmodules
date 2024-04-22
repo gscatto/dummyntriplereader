@@ -1,0 +1,3 @@
+[submodule "ntriplereader"]
+	path = ntriplereader
+	url = git@github.com:gscatto/ntriplereader.git
